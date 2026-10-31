@@ -2,7 +2,7 @@
 
 ## Java Backend Developer | Spring Boot | REST APIs | Microservices
 
-I have 2 years of experience developing backend applications using Java and Spring Boot. I enjoy building scalable REST APIs, authentication systems, and database-driven applications.
+I have 2+ years of experience developing backend applications using Java and Spring Boot. I enjoy building scalable REST APIs, authentication systems, and database-driven applications.
 
 ## Tech Stack
 
