@@ -1,6 +1,6 @@
 # Hi, I'm Manojkumar 👋
 
-## Java Backend Developer | Spring Boot | MySQL| PostgreSQL | REST APIs | Microservices
+## Java Backend Developer | Java | Spring Boot | MySQL| PostgreSQL | REST APIs | Microservices
 
 I have 2+ years of experience developing backend applications using Java and Spring Boot. I enjoy building scalable REST APIs, authentication systems, and database-driven applications.
 
